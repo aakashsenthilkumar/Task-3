@@ -6,7 +6,7 @@ if (Object.keys(obj1).length==Object.keys(obj2).length){
     console.log("Length is same");
     for(let key in obj1){
         if(obj1[key]===obj2[key]){
-            console.log("Values are same");
+            console.log("Values are same..");
         
         }else{
             console.log("Values Does not same..");
