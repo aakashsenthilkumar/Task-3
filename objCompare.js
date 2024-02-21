@@ -9,7 +9,7 @@ if (Object.keys(obj1).length==Object.keys(obj2).length){
             console.log("Values are same");
         
         }else{
-            console.log("Values Does not same");
+            console.log("Values Does not same..");
 
         }
         
