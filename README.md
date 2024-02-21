@@ -4,8 +4,8 @@ This is a repository created for submitting my task.
 
  - To Compare the two JSON objects have the same properties without order:
 
-      - In this two JSON objects are convert them to strings and then compare the string representations.
-      - Using JSON.stringify() is used to convert the JSON objects into string representations, and then the strings are compared. 
+      - In this two JSON objects are store the seperate objects and the keys are iterate using for loop method.
+      - Then the obj1 keys are iterated to give the condition those two objects  are same or not.
       - In the above discussed activity have the file named as "objCompare.js".
         
       Remaining activities are uploaded for that individual folder.  
