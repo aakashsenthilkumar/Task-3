@@ -16,5 +16,5 @@ if (Object.keys(obj1).length==Object.keys(obj2).length){
     }
      
 }else{
-    console.log("Object length are different")
+    console.log("Object length are different..")
 }
